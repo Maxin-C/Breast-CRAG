@@ -1,1 +1,1 @@
-model can be downloaded from https://drive.google.com/drive/folders/1_A28VXH1xawZbFMm1-1Vk3gz4eogYAeT?usp=drive_link
+model can be downloaded on huggingface (MaxinT23/Qwen2.5-7B-Breast-CRAG)
